@@ -14,9 +14,9 @@
 </div>
 <hr>
 <div>
-	<h3>Website Demo</h3>
+	
   	<ul>
-		<li>https://www.youtube.com/watch?v=0_BIVwIHcZM&ab_channel=IdrissJairi </li>
+		
 		<li>Admin Login Page: http://localhost/barbershop-website-php-mysql/barber-admin/</li>
 	</ul>
 	<p>
@@ -36,4 +36,4 @@
 		<li>Feel free to edit the missig parts or the existing parts</li>
 	</ol>
 </div>
-<p>Questions and Clarifications: If you have any questions feel free to contact me: https://www.facebook.com/jairiidriss/</p>
+
